@@ -123,7 +123,7 @@ with tab3:
                 st.rerun()
         elif edit_id != 0:
             st.warning("No transaction with that ID")
-
+            
 # ---------- Insights ----------
 with tab4:
     st.subheader("AI Spending Insights")
