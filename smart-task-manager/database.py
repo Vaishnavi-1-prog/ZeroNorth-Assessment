@@ -60,7 +60,7 @@ def delete_task(task_id):
     conn.commit()
     conn.close()
 
-
+#---------------
 def update_task(task_id, title, description, priority, due_date):
     conn = get_connection()
     conn.execute(
