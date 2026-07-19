@@ -49,4 +49,4 @@ streamlit run app.py
 
 ---
 
-Built by Vaishnavidevi J
+By Vaishnavidevi J
