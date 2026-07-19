@@ -14,7 +14,7 @@ def suggest_breakdown(title, description=""):
         steps = ["Prepare agenda/slides", "Share with attendees", "Hold the meeting", "Send follow-up notes"]
     else:
         steps = ["Break the task into smaller steps", "Work on step 1", "Review progress", "Complete and close out"]
-
+        
     return steps
 
 
